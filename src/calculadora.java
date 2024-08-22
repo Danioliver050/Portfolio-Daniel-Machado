@@ -85,7 +85,7 @@ public class calculadora implements ActionListener {
         panel.add(botoesNumeros[7]);
         panel.add(botoesNumeros[8]);
         panel.add(botoesNumeros[9]);
-        panel.add(botaoMultiplicacao); //botaoSoma
+        panel.add(botaoMultiplicacao);
         panel.add(botoesNumeros[4]);
         panel.add(botoesNumeros[5]);
         panel.add(botoesNumeros[6]);
