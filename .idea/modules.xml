@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Calculadora com JavaFX.iml" filepath="$PROJECT_DIR$/Calculadora com JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraGUI.iml" filepath="$PROJECT_DIR$/CalculadoraGUI.iml" />
     </modules>
   </component>
 </project>
