@@ -29,7 +29,7 @@ Como Executar:
 
 1. Clone este repositório:
 
-git clone https://github.com/Danioliver050/calculadoraGUI)
+git clone https://github.com/Danioliver050/calculadoraGUI
 
 
 2.Abra o projeto em sua IDE Java preferida (IntelliJ IDEA, Eclipse, NetBeans, VS Code).
