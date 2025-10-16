@@ -9,23 +9,22 @@ Este projeto é uma **calculadora gráfica** desenvolvida em **Java** utilizando
 A calculadora implementa as seguintes funcionalidades:
 
 - Operações matemáticas básicas:
-- 
-- Adição (+)
-- Subtração (-)
-- Multiplicação (*)
-- Divisão (÷)
+    - Adição (+)
+    - Subtração (-)
+    - Multiplicação (*)
+    - Divisão (÷)
 - Entrada de números com casas decimais
-- Botão de igual para calcular resultados
+- Botão **=** para calcular resultados
 - Botão **C** para apagar o último dígito
-- Botão **AC** para limpar a tela
+- Botão **AC** para limpar toda a tela
 - Botão **(-)** para alternar entre números positivos e negativos
 
 ---
 
 ## Estrutura do Projeto
 
-- **calculadora.java**: Classe principal que implementa a interface gráfica, botões e lógica da calculadora.
-- **Main.java**: Exemplo adicional de execução básica em Java, utilizado para testes de fluxo e prints no console.
+- **Calculadora.java**: Classe principal que implementa a interface gráfica, botões e lógica da calculadora.
+- **Main.java**: Classe que inicia a execução do programa.
 
 O projeto segue conceitos de **POO**, separando responsabilidades e utilizando **ActionListener** para tratamento de eventos.
 
@@ -34,9 +33,9 @@ O projeto segue conceitos de **POO**, separando responsabilidades e utilizando *
 ## Tecnologias Utilizadas
 
 - Java 17
-- Swing (javax.swing)
+- Swing (`javax.swing`)
 - GridLayout e JPanel para organização da interface
-- Eventos com ActionListener
+- Eventos com `ActionListener`
 
 ---
 
@@ -44,10 +43,10 @@ O projeto segue conceitos de **POO**, separando responsabilidades e utilizando *
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Danioliver050/portfolio-Daniel-Machado.git
+git clone https://github.com/Danioliver050/Portfolio-Daniel-Machado.git
 ```
 2. Abra o projeto no IntelliJ IDEA.
 
-3. Compile e execute a classe calculadora.java.
+3. Compile e execute a classe Main.java.
 
 4. A interface gráfica da calculadora será exibida.

@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class calculadora implements ActionListener {
+public class Calculadora implements ActionListener {
 
     JFrame frame;
     JTextField textField;
