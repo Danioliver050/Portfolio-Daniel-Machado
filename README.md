@@ -38,4 +38,4 @@ Cada projeto deste portfólio exemplifica a aplicação prática desses conceito
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Portfolio-Daniel-Machado.git
+   git clone https://github.com/Danioliver050/Portfolio-Daniel-Machado.git
