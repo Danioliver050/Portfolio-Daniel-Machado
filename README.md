@@ -26,7 +26,7 @@ Cada projeto deste portfólio exemplifica a aplicação prática desses conceito
 
 
 1. [Conta Bancária](ContaBancaria/): Sistema bancário com cadastro de clientes, depósitos, saques, transferências e exclusão de conta utilizando Java e manipulação de objetos.
-2. [Calculadora GUI](Calculadora_GUI/): Calculadora com interface gráfica em Java utilizando Swing, suportando operações básicas e botões funcionais.
+2. [Calculadora GUI](Calculadora_GUI.Java/): Calculadora com interface gráfica em Java utilizando Swing, suportando operações básicas e botões funcionais.
 3. 
 
 
