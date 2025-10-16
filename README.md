@@ -2,8 +2,10 @@
 
 Bem-vindo ao meu portfólio de projetos em Java! 
 
-Aqui você encontrará alguns projetos que fiz utilizando a linguagem Java, com a finalidade de registrar meu aprendizado
-e colocar em prática os conteúdos que aprendi.
+## Finalidade
+
+Este portfólio tem como objetivo demonstrar minha evolução prática em desenvolvimento Java, reunindo projetos que aplicam conceitos de programação orientada a objetos, lógica, interfaces gráficas, integração com APIs e persistência de dados. Ele serve como uma vitrine das minhas habilidades técnicas e criatividade na resolução de problemas, facilitando que recrutadores e empregadores avaliem minha experiência prática e prontidão para atuação profissional.
+
 
 ## Conceitos e Tecnologias Aplicadas
 
