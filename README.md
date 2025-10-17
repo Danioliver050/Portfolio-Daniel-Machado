@@ -31,7 +31,7 @@ Cada projeto deste portfólio exemplifica a aplicação prática desses conceito
 
 ## Projetos
 
-1. [Calculadora GUI](CalculadoraJavaFx/): Calculadora com interface gráfica em Java utilizando Swing, suportando operações básicas e botões funcionais.
+1. [CalculadoraJavaFX](CalculadoraJavaFx/): Calculadora com interface gráfica em Java utilizando Swing, suportando operações básicas e botões funcionais.
 2. [Conta Bancária](ContaBancaria/): Sistema bancário com cadastro de clientes, depósitos, saques e transferências, utilizando Java e manipulação de objetos.
 3. 
 
