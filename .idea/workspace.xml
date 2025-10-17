@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e7be4e-4312-4165-8368-f0c8f0f8e3cd" name="Changes" comment="Retirada da Linha de código que simboliza que as classes eram importadas de um pacote.">
-      <change afterPath="$PROJECT_DIR$/Agenda_CRUD/src/main/java/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="02e7be4e-4312-4165-8368-f0c8f0f8e3cd" name="Changes" comment="Retirada da Linha de código que simboliza que as classes eram importadas de um pacote." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
