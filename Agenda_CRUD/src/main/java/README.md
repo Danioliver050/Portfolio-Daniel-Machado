@@ -51,4 +51,17 @@ Este projeto aplica conceitos fundamentais de **POO**, como:
 3. Compile e execute a classe principal
 
 4. Siga as instruções exibidas no console para interagir com a agenda
+
+
+## 
+
+Segue alguns prints do projeto em execução no console:
+
+
+[Adicionar Contato](assets/Agenda_CRUD_1.png)
+
+[Listar Contatos](assets/Agenda_CRUD_2.png)
+
+[Atualizar Contato](assets/Agenda_CRUD_3.png)
+
  

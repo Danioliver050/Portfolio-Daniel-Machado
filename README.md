@@ -33,8 +33,8 @@ Cada projeto deste portfólio exemplifica a aplicação prática desses conceito
 
 1. [CalculadoraJavaFX](CalculadoraJavaFX/): Calculadora com interface gráfica em Java utilizando Swing, suportando operações básicas e botões funcionais.
 2. [Conta Bancária](ContaBancaria/): Sistema bancário com cadastro de clientes, depósitos, saques e transferências, utilizando Java e manipulação de objetos.
-3. 
-
+3. [Agenda_CRUD](Agenda_CRUD/): Aplicação CRUD para gerenciamento de contatos, utilizando Java e manipulação de arquivos/banco de dados.
+4. [JogoDaVelha](JogoDaVelha/): Jogo da Velha para 2 usuários jogarem, com marcação de placar, reiniciação de jogo e encerramento. 
 > **Observação:** Cada projeto possui um `README.md` próprio dentro da subpasta explicando em detalhes o funcionamento, tecnologias utilizadas e instruções de execução.
 
 ---
